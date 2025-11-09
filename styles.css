@@ -1,0 +1,23 @@
+.button
+{
+    display:flex;
+    justify-content: center;
+    margin-top:20px;
+}
+.Button{
+    padding: 10px 20px;
+}
+.dark-mode{
+    background-color: black;
+    color: white;
+}
+#time{
+    display:flex;
+    justify-content: center;
+    font-size: large;
+}
+h1{
+    display:flex;
+    justify-content: center;
+       
+}
